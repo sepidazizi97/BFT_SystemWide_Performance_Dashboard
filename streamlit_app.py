@@ -12,7 +12,6 @@ import streamlit as st
 
 st.set_page_config(
     page_title="BFT System Performance Dashboard",
-    page_icon="🚌",
     layout="wide",
 )
 
@@ -103,7 +102,7 @@ st.markdown(
 )
 
 st.markdown(
-    '<div class="main-title">🚌 BFT System Performance Dashboard</div>',
+    '<div class="main-title"> BFT System Performance Dashboard</div>',
     unsafe_allow_html=True,
 )
 
